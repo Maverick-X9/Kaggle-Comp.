@@ -1,6 +1,15 @@
 # 🚀 Kaggle-Comp.  
 
-Welcome to **Kaggle-Comp.**, a dynamic repository showcasing solutions to various Kaggle competitions! This repository is your one-stop guide to exploring **machine learning techniques**, **data preprocessing**, **feature engineering**, and **model evaluation**. Dive in to find **end-to-end workflows** crafted to tackle diverse data science challenges.  
+![Kaggle Banner](https://storage.googleapis.com/kaggle-competitions/kaggle.png)  
+
+Welcome to **Kaggle-Comp.**, a dynamic repository showcasing solutions to various **Kaggle competitions**! 🏆  
+This repository is your one-stop guide to exploring:  
+- 💡 **Machine Learning Techniques**  
+- 🛠️ **Data Preprocessing**  
+- 🔍 **Feature Engineering**  
+- 📈 **Model Evaluation**  
+
+Dive in to discover **end-to-end workflows** crafted to tackle diverse data science challenges. 🌟  
 
 ---
 
@@ -8,20 +17,20 @@ Welcome to **Kaggle-Comp.**, a dynamic repository showcasing solutions to variou
 
 The repository is neatly organized for seamless navigation. Each competition is housed in its own folder, containing:  
 
-📒 **Notebooks**  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Model Training & Evaluation  
+### 📒 **Notebooks**  
+📊 Data Exploration (EDA)  
+🛠️ Feature Engineering  
+🤖 Model Training & Evaluation  
 
-⚙️ **Scripts**  
-- Automation for data preprocessing  
-- Model training pipelines  
-- Prediction generation  
+### ⚙️ **Scripts**  
+🔄 Automation for Data Preprocessing  
+🤝 Model Training Pipelines  
+📤 Prediction Generation  
 
-📄 **Submission Files**  
-- Final prediction outputs formatted for Kaggle submission.  
+### 📄 **Submission Files**  
+✅ Final outputs formatted for Kaggle submission.  
 
-📝 **Documentation**  
-- Readme files or additional notes explaining the solution approach.  
+### 📝 **Documentation**  
+📘 Readme files or additional notes explaining the approach.  
 
 ---

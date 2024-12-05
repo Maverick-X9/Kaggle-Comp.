@@ -22,5 +22,3 @@ The dataset includes the following key attributes:
 ### Evaluation Metric  
 Submissions are evaluated based on **accuracy**, the percentage of correct survival predictions.  
 
-### Submission Format  
-The submission file should be a CSV with the following structure:  

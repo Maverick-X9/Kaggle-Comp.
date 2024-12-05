@@ -1,9 +1,5 @@
 # 🚀 **Kaggle-Comp.**  
 
-<p align="center">
-  <img src="https://storage.googleapis.com/kaggle-competitions/kaggle.png" alt="Kaggle Banner" width="80%">
-</p>
-
 Welcome to **Kaggle-Comp.**, a dynamic repository showcasing solutions to various **Kaggle competitions**! 🏆  
 Your one-stop guide to exploring:  
 - 💡 **Machine Learning Techniques**  

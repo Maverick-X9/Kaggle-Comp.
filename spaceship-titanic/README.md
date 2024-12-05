@@ -16,5 +16,4 @@ The dataset consists of:
 ### Evaluation Metric  
 Submissions are evaluated based on **classification accuracy**, the percentage of correct labels in the predictions.  
 
-### Submission Format  
-The submission file should be a CSV with the following structure:  
+

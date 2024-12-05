@@ -10,9 +10,3 @@ Each competition is organized into its own folder, containing:
 - **Submission Files**: Final prediction outputs in the required format for submission.  
 - **Documentation**: Readme files or additional notes explaining the solution approach.  
 
-## Getting Started  
-
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/your-username/kaggle-competitions.git
-   cd kaggle-competitions

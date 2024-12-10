@@ -1,4 +1,3 @@
-
 \\\\\\\\\\\\ 
 # MNIST Digit Recognizer
 

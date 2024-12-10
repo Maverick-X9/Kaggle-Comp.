@@ -1,4 +1,4 @@
-# MNIST Digit Classification
+# MNIST Digit Recognizer
 
 This repository contains solutions for the **MNIST Digit Classification** task, inspired by Kaggle's classic competition. The objective is to correctly identify handwritten digits from tens of thousands of labeled images.
 

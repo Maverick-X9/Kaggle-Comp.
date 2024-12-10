@@ -11,5 +11,5 @@ The goal of this project is to experiment with different machine learning algori
 - Neural networks
 - Comparison of various ML algorithms
 
-## Project Structure
+
 

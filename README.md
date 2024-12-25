@@ -1,5 +1,5 @@
 # 🚀 **Kaggle-Comp.**   
-            
+             
 Welcome to **Kaggle-Comp.**, a dynamic repository showcasing solutions to various **Kaggle competitions**! 🏆  
 Your one-stop guide to exploring:  
 - 💡 **Machine Learning Techniques**  

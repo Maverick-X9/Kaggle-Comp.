@@ -1,5 +1,5 @@
 # Oral Disease Classification Task 
-
+ 
 ## Objective
 This project aims to develop a machine learning classification model capable of identifying various oral diseases from single-image inputs. The task utilizes image preprocessing, deep learning models, and multiclass classification techniques.
 

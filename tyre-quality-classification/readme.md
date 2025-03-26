@@ -1,8 +1,22 @@
-## Tyre Quality Classification
+# Tyre Quality Classification Dataset
 
+## Overview
+The **Tyre Quality Classification Dataset** contains **1,854 digital tyre images**, categorized into two classes:
+- **Defective**
+- **Good Condition**
 
-The dataset contains 1854 digital tyre images, categorized into two classes: defective and good condition. Each image is in a digital format and represents a single tyre. The images are labelled based on their condition, i.e., whether the tyre is defective or in good condition.
+Each image represents a single tyre and is labeled based on its condition. This dataset is valuable for machine learning and computer vision applications such as image classification and object detection.
 
-This dataset can be used for various machine learning and computer vision applications, such as image classification and object detection. Researchers and practitioners in transportation, the automotive industry, and quality control can use this dataset to train and test their models to identify the condition of tyres from digital images. The dataset provides a valuable resource to develop and evaluate the performance of algorithms for the automatic detection of defective tyres.
+## Applications
+This dataset can be used in various fields, including:
+- **Automotive Industry**: Quality control and automated inspection systems.
+- **Transportation Safety**: Preventing accidents due to defective tyres.
+- **Machine Learning Research**: Training and evaluating classification models.
+- **Computer Vision**: Enhancing automated defect detection techniques.
 
-The dataset may also help improve the tyre industry's quality control process and reduce the chances of accidents due to faulty tyres. The availability of this dataset can facilitate the development of more accurate and efficient inspection systems for tyre production.
+## Dataset Details
+- **Total Images**: 1,854
+- **Classes**: 2 (Defective, Good Condition)
+- **Format**: Digital images
+- **Annotations**: Labeled based on tyre condition
+

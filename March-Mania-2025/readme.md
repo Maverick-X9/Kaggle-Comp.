@@ -2,10 +2,7 @@
 
 This project focuses on predicting NCAA basketball matchups using **seed rankings** and historical data. 🏆  
 
-## 📂 Repository Overview  
-- **`march-mania-2025.ipynb`** – Kaggle Notebook for data processing, seed extraction, and probability calculations  
-- **`README.md`** – Overview and detailed explanation of the approach  
-- **`LICENSE`** – MIT License, open for community contributions  
+
 
 ## 📊 Approach  
 ✅ **Extract** TeamID, Season, and Matchup details  

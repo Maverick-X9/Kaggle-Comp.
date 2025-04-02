@@ -6,6 +6,4 @@ This repository contains our solution for the **Third Image Matching Challenge**
 
 ## Competition Overview
 **Goal**: Group images from diverse collections into coherent 3D scenes while discarding outliers (e.g., unrelated photos). Improve Structure from Motion (SfM) robustness for real-world applications.  
-**Challenge**: [Image Matching Challenge 2024](https://www.vision.ethz.ch/challenge/2024/)  
-**Dataset**: [Download Link](https://competition.data) (check competition page for details)
 

@@ -1,6 +1,6 @@
 # 📱 Predicting Problematic Internet Use from Physical Activity in Youth
 
-This repository contains our solution for the **Problematic Internet Use Prediction Challenge** (Sep 20 – Dec 20, 2024). The goal is to develop a machine learning model that predicts the level of **problematic internet usage** in children and adolescents based on their **physical activity and fitness data**.
+This repository contains our solution for the **Problematic Internet Use Prediction Challenge**. The goal is to develop a machine learning model that predicts the level of **problematic internet usage** in children and adolescents based on their **physical activity and fitness data**.
 
 ---
 

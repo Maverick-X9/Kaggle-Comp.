@@ -10,19 +10,4 @@ In today's digital age, excessive technology use among youth is increasingly lin
 
 This project explores whether **physical activity metrics** can be used as a proxy for detecting early signs of problematic internet usage — allowing for **low-cost**, **accessible**, and **early intervention strategies**.
 
----
-
-## 📂 Repository Structure
-
-```bash
-├── data/                   # Raw and processed datasets (if available)
-├── notebooks/              # Jupyter Notebooks for EDA, modeling, etc.
-├── models/                 # Trained model files and weights
-├── src/                    # Source code for preprocessing, training, evaluation
-│   ├── data_preprocessing.py
-│   ├── train_model.py
-│   └── predict.py
-├── requirements.txt        # List of dependencies
-├── README.md               # This file
-└── submission.csv          # Sample submission file
 

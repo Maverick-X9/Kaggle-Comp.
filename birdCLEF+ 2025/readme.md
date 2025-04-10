@@ -32,17 +32,4 @@ The **Magdalena Valley** in Colombia is a critical biodiversity hotspot, but it'
 
 By analyzing soundscape data from this region, your models will help conservationists evaluate ecological health and biodiversity recovery with greater precision and frequency.
 
----
-
-## 📁 Repository Structure
-
-```bash
-├── audio/                   # Audio clips or spectrograms (if applicable)
-├── data/                    # Metadata, labels, splits
-├── notebooks/               # EDA and experiments in Jupyter
-├── src/                     # Source code for training, preprocessing, inference
-│   ├── preprocess.py
-│   ├── train.py
-│   ├── model.py
-│   └
 

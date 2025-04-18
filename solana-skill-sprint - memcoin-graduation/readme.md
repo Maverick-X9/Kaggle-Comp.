@@ -37,8 +37,3 @@ Predict whether a token will reach at least 85 SOL in liquidity.
 - Tune hyperparameters and adjust the model based on performance feedback.
 
 
-
-```bash
-git clone https://github.com/yourusername/pump-fun-token-prediction.git
-cd pump-fun-token-prediction
-pip install -r requirements.txt

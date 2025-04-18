@@ -36,23 +36,7 @@ Predict whether a token will reach at least 85 SOL in liquidity.
 - Evaluate model performance based on the prediction accuracy in differentiating between tokens that succeed and tokens that are rugged.
 - Tune hyperparameters and adjust the model based on performance feedback.
 
-## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- Required libraries:
-    - `numpy`
-    - `pandas`
-    - `scikit-learn`
-    - `matplotlib`
-    - `seaborn`
-    - `xgboost` (if applicable)
-    - `tensorflow` or `pytorch` (if using deep learning)
-
-### Installation
-
-Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/yourusername/pump-fun-token-prediction.git

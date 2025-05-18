@@ -11,6 +11,7 @@
 
 
 
+
 # 🏋️‍♀️ Kaggle Playground Series - May 2025
 
 Welcome to the 2025 Kaggle Playground Series! This repository contains my solution to the **May 2025** challenge, where the objective is to predict **calories burned during a workout** based on a given dataset.

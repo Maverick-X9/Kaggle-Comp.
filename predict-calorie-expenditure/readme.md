@@ -6,8 +6,6 @@ Welcome to the 2025 Kaggle Playground Series! This repository contains my soluti
 
 - **Goal**: Predict the number of calories burned during a workout session.
 - **Challenge Host**: [Kaggle Playground Series](https://www.kaggle.com/competitions)
-- **Start Date**: 17 days ago  
-- **End Date**: In 13 days  
 - **Evaluation Metric**: Root Mean Squared Logarithmic Error (RMSLE)
 
 ### 📊 RMSLE Formula

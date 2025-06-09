@@ -30,14 +30,3 @@ This requires building systems that reason and abstract, moving beyond large dat
 - **ARC-AGI-2**: A curated dataset of human-calibrated tasks designed to test generalization and reasoning.
 - Unlike traditional ML datasets, tasks are **puzzle-like** and emphasize **cognitive abstraction**.
 
-## 🛠️ Project Structure
-
-```plaintext
-📁 arc-agi-2/
-├── data/                 # Input training/testing tasks
-├── notebooks/            # Jupyter notebooks for experimentation
-├── models/               # Models and training pipelines
-├── src/                  # Core implementation (reasoning engine, evaluation)
-├── utils/                # Utility functions
-├── submissions/          # Final model submissions
-└── README.md             # This file

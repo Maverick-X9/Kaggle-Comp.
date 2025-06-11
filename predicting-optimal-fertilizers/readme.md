@@ -22,5 +22,4 @@ Where:
 - \( P(j) \): Precision at cutoff \( j \)
 - \( \text{rel}_{i}(j) \): Indicator function (1 if the item at rank \( j \) is a relevant label, 0 otherwise)
 
-## 📁 Project Structure
 

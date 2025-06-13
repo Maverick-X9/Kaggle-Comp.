@@ -6,8 +6,6 @@ Welcome to the repository for the **Prediction Interval Competition II: House Pr
 
 Unlike traditional regression competitions that focus on minimizing prediction error for point estimates (e.g., RMSE), this competition requires models to output **prediction intervals** — capturing the **uncertainty** around price estimates.
 
-> The model that consistently produces the **narrowest valid prediction intervals** across the dataset wins.
-
 ---
 
 ## 🧠 Key Concepts

@@ -14,40 +14,6 @@ Develop a machine learning model that:
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-.
-├── data/                     # Dataset storage (not included in repo)
-├── notebooks/                # Jupyter notebooks for EDA and experimentation
-├── src/                      # Source code for data processing and modeling
-│   ├── data_loader.py        # Handles feature ingestion
-│   ├── feature_engineering.py
-│   ├── model.py              # Core modeling logic
-│   └── utils.py              # Helper functions
-├── models/                   # Trained model artifacts
-├── outputs/                  # Evaluation outputs and predictions
-├── requirements.txt          # Dependencies
-└── README.md                 # Project documentation
-```
-
----
-
-## 🔧 Installation
-
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/crypto-price-movement-prediction.git
-cd crypto-price-movement-prediction
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 📊 Data
 
 - **Production features**: Provided by DRW (confidential, high-signal indicators)
@@ -75,23 +41,3 @@ The primary evaluation is based on the **accuracy of directional movement predic
 - PnL simulation of strategy application
 
 ---
-
-## 🧪 Getting Started
-
-Run a quick experiment with:
-
-```bash
-python src/model.py --train --config configs/default.yaml
-```
-
-To generate predictions:
-
-```bash
-python src/model.py --predict --model-path models/final_model.pkl
-```
-
----
-
-## 🤝 Acknowledgements
-
-Thanks to [DRW](https://drw.com) and [Cumbe]()

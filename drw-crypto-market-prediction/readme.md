@@ -33,11 +33,4 @@ The project uses state-of-the-art modeling techniques including:
 
 ---
 
-## 📈 Evaluation Metric
 
-The primary evaluation is based on the **accuracy of directional movement prediction** (up/down), potentially with custom metrics like:
-- Hit rate (directional accuracy)
-- Sharpe ratio of generated signals
-- PnL simulation of strategy application
-
----

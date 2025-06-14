@@ -1,3 +1,4 @@
+
 # Crypto Price Movement Prediction 🚀
 
 Welcome to the official repository for the **Crypto Price Movement Prediction** challenge, hosted in collaboration with [DRW](https://drw.com) and [Cumberland](https://cumberland.io/). This project aims to build a robust model that predicts **short-term directional price movements** in the cryptocurrency market using proprietary production features and public market data.

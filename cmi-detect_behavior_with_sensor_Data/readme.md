@@ -71,10 +71,3 @@ Your model can help determine the value of including advanced sensors in future 
 - [What is Trichotillomania? – Child Mind Institute](https://childmind.org/article/what-is-trichotillomania/)
 
 ---
-
-## 🚀 Getting Started
-
-Stay tuned for data format, baseline models, and submission instructions.
-
----
-```

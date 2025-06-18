@@ -41,13 +41,6 @@ Polymers are everywhere — from your DNA to everyday plastics. Predicting their
 
 ---
 
-## 📆 Timeline
-
-- **Competition Start**: 2 days ago
-- **Competition End**: ~3 months remaining
-
----
-
 ## 🔧 Tasks
 
 - Preprocess SMILES strings for modeling

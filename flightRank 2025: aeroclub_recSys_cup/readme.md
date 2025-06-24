@@ -15,23 +15,6 @@ In this challenge, we aim to **predict the selected flight option** from each se
 
 ---
 
-## 🎯 Objective
-
-Build a model that ranks flight options within each **user search session** (grouped by `ranker_id`), and accurately predicts the flight the user chose.
-
-### Evaluation Metric
-
-- **HitRate@3**  
-  Measures how often the chosen flight appears in the top-3 predictions of your model.
-
-  \[
-  \text{HitRate@3} = \frac{1}{|Q|} \sum_{i=1}^{|Q|} \mathbf{1}(\text{rank}_i \leq 3)
-  \]
-
-  A perfect score = `1.0` (the true choice is always in top 3)
-
----
-
 ## 🧱 Dataset Structure
 
 Each row represents a flight option under a given `ranker_id` (i.e., a search session). Columns include:
@@ -41,6 +24,4 @@ Each row represents a flight option under a given `ranker_id` (i.e., a search se
 - Label: `booking_bool` → `1` if chosen, `0` otherwise
 
 ---
-
-## 📦 Project Structure
-
+git

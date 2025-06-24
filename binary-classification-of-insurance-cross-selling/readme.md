@@ -12,13 +12,3 @@ Predict the probability that a customer will respond positively (`Response = 1`)
 **Hosted on:** [Kaggle Playground Series - July 2024](https://www.kaggle.com/competitions/playground-series-s3e7)  
 
 ---
-
-## 📊 Evaluation Metric
-
-The competition uses the **Area Under the ROC Curve (AUC-ROC)** to evaluate submissions.
-
-\[
-\text{AUC-ROC} = \text{Probability that a randomly chosen positive instance is ranked higher than a randomly chosen negative one}
-\]
-
-Higher AUC = Better model

@@ -14,8 +14,5 @@ Key Challenge Highlights:
 - Detect **multiple soup cans** per image
 - Generate data by modifying parameters in a **digital twin simulation**
 - Evaluate performance using **mAP@50**
-
-Learn more about the competition here: [Kaggle Challenge Link](#)
-
 ---
 

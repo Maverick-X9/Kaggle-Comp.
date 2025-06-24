@@ -23,5 +23,3 @@ Each row represents a flight option under a given `ranker_id` (i.e., a search se
 - User Preferences: `user_status`, `policy_compliance`, etc.
 - Label: `booking_bool` → `1` if chosen, `0` otherwise
 
----
-git

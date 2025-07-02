@@ -1,7 +1,5 @@
 # 🌌 Ariel Data Challenge 2024 – Exoplanet Spectrum Recovery
 
-![Ariel Mission Banner](https://upload.wikimedia.org/wikipedia/commons/5/5c/Ariel_Telescope_ESA_Artist_Rendering.png)
-
 ## 🪐 Overview
 
 This repository contains our solution to the **NeurIPS - Ariel Data Challenge 2024**, a competition focused on extracting faint atmospheric signals from exoplanet transit spectroscopy data. The challenge supports ESA's upcoming **Ariel mission**, which aims to study the atmospheres of over 1,000 exoplanets post-launch in 2029.

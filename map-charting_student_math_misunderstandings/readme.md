@@ -1,6 +1,6 @@
 # 🧠 MAP: Misconception Annotation Project
 
-This repository contains our solution for the [Misconception Annotation Project (MAP)] competition. The challenge is to build an NLP model using machine learning to predict potential math misconceptions in student explanations. The ultimate goal is to help teachers diagnose and address students’ conceptual misunderstandings more effectively.
+This repository contains our solution for the Misconception Annotation Project (MAP) competition. The challenge is to build an NLP model using machine learning to predict potential math misconceptions in student explanations. The ultimate goal is to help teachers diagnose and address students’ conceptual misunderstandings more effectively.
 
 ---
 

@@ -1,5 +1,5 @@
 # Web-User Identification Using Sequential Web Page Visits
-
+ 
 This project focuses on identifying whether a sequence of visited web pages belongs to a specific user (Alice) or not. The problem lies at the intersection of sequential pattern mining and behavioral psychology, and uses real-world proxy server data collected from Blaise Pascal University.
 
 ## 🧠 Project Overview

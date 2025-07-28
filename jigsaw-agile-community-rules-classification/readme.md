@@ -1,4 +1,4 @@
-### 🧠 Reddit Comment Rule Violation Classifier
+## 🧠 Reddit Comment Rule Violation Classifier
 
 Welcome to the Reddit Comment Rule Violation Classifier – a machine learning project designed to detect whether a Reddit comment breaks a specific subreddit rule.
 
